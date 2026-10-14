@@ -1,0 +1,4 @@
+service monitor application 
+enevorment:Tranning 
+version:1.0
+owner: platform Team
