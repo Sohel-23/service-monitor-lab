@@ -2,3 +2,5 @@ service monitor application
 enevorment:Tranning 
 version:1.0
 owner: platform Team
+Monitoring Interval: 60 seconds
+Deployment Model: Git Based
